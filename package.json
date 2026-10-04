@@ -1,0 +1,12 @@
+{
+  "name": "nazaakat-delhivery-mock",
+  "version": "1.0.0",
+  "description": "Mock Delhivery + 3 simulated capabilities (MCP + REST) for the nazaakat.ai case competition",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "MOCK_TIMEOUT_MS=1500 node test/run-tests.js"
+  },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}

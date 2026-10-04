@@ -1,0 +1,11 @@
+id,model,price_inr,class,ram_gb,storage_gb,weight_kg,battery_hours,best_for,gives_up
+L01,Budget Coder 14,38990,"Ryzen 5 / integrated",16,512,1.4,9,"coding, college, travel","no real gaming, modest screen brightness"
+L02,Everyday Slim 15,44990,"Core i5 / integrated",16,512,1.6,8,"office, study, light coding","weak for gaming and video editing"
+L03,Student Light 14,49990,"Ryzen 7 / integrated",16,512,1.3,10,"coding, portability, long battery","games only at low settings"
+L04,Entry Gamer 15,54990,"Core i5 / RTX 2050",16,512,2.1,5,"casual gaming plus coding","heavier, battery under 5 hours"
+L05,Balanced Creator 15,57990,"Ryzen 5 / RTX 3050",16,512,2.2,5,"coding with regular gaming","heavy, fans get loud under load"
+L06,Gaming Value 15,58990,"Core i5 / RTX 3050",16,512,2.3,5,"gaming first, coding second","portability and battery"
+L07,Performance 16,64990,"Ryzen 7 / RTX 4050",16,512,2.4,5,"serious gaming and heavy coding","above many budgets, heavy"
+L08,Ultra Portable 13,69990,"Core Ultra 5 / integrated",16,512,1.1,12,"travel, coding, all-day battery","not for gaming, price per spec"
+L09,Pro Coder 14,79990,"Ryzen 7 / RTX 4050",16,1024,1.9,8,"coding plus real gaming in a lighter body","price"
+L10,Premium Allrounder 16,89990,"Core Ultra 7 / RTX 4060",32,1024,2.3,6,"everything: coding, gaming, editing","price and weight"
